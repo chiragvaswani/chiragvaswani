@@ -3,7 +3,7 @@
 ## Hi there! 👋
 I am Chirag Vaswani, an undergrad that likes Computer Science. I like to explore different tools and technologies and use them to build applications. The process of coming up with scalable solutions and patterns that solve a complex problem really fascinates me. 
 <br/><br/>
-[![Chirag Vaswani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chiragvaswani&theme=react-dark)](https://github.com/chiragvaswani/github-readme-activity-graph)
+[![Chirag Vaswani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chiragvaswani&theme=react-dark)]
 <br/><br/>
 ## Tools & Technologies 👨‍💻
 
