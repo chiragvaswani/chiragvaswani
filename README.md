@@ -24,7 +24,7 @@ I am Chirag Vaswani, an undergrad that likes Computer Science. I like to explore
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragvaswani&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
   </a>
 </div>
-<br><br>
+<br/><br/>
 ## Connect with me 🤝
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-vaswani-3263961b3/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chiragg_v)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chiragvaswani751@gmail.com&su=Regarding&body=Hi%20Chirag!)
