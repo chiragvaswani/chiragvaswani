@@ -1,6 +1,7 @@
 ![Header](https://github.com/chiragvaswani/chiragvaswani/blob/main/Header.png?raw=true)
 
-## Hi there 👋
+## Hi there! 👋
+I am Chirag Vaswani, an undergrad that likes Computer Science. I like to explore different tools and technologies and use them to build applications. The process of coming up with scalable solutions and patterns that solve a complex problem really fascinates me. 
 <br><br>
 
 [![Chirag Vaswani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chiragvaswani&theme=react-dark)](https://github.com/chiragvaswani/github-readme-activity-graph)
@@ -28,7 +29,7 @@
 </div>
 
 <br><br>
-## Connect with me 
+## Connect with me 🤜🤛
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chiragg_v)&nbsp;&nbsp;[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://)
 
 <!--
