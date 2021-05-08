@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/chiragvaswani/Sunrise\ Horizon.png "Header")](https://some-url.dev/)
+![Header](https://github.com/chiragvaswani/chiragvaswani/blob/main/Sunrise%20Horizon.png?raw=true)
 
 ### Hi there 👋
 
