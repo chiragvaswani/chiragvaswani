@@ -1,4 +1,4 @@
-![Header](https://github.com/chiragvaswani/chiragvaswani/blob/main/Sunrise%20Horizon.png?raw=true)
+![Header](https://github.com/chiragvaswani/chiragvaswani/blob/main/Header.png?raw=true)
 
 ### Hi there 👋
 
