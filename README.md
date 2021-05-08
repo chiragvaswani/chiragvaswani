@@ -26,7 +26,8 @@ I am Chirag Vaswani, an undergrad that likes Computer Science. I like to explore
 </div>
 <br><br>
 ## Connect with me 🤝
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-vaswani-3263961b3/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chiragg_v)&nbsp;&nbsp;[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chiragvaswani751@gmail.com&su=Regarding&body=Hi%20Chirag!)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-vaswani-3263961b3/)&nbsp;&nbsp;[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chiragg_v)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chiragvaswani751@gmail.com&su=Regarding&body=Hi%20Chirag!)
 
 <!--
 **chiragvaswani/chiragvaswani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
