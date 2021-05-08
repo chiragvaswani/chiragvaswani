@@ -3,7 +3,7 @@
 ## Hi there 👋
 <br><br>
 
-[![Chirag Vaswani's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiragvaswani&theme=react-dark)](https://github.com/chiragvaswani/github-readme-activity-graph)
+[![Chirag Vaswani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chiragvaswani&theme=react-dark)](https://github.com/chiragvaswani/github-readme-activity-graph)
 
 ## Tools & Technologies 
 
@@ -15,10 +15,14 @@
 <br><br>
 ## GitHub Stats
 <div align="center">
-  <a href="https://github.com/chiragvaswani/github-readme-stats">
+  <a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragvaswani&theme=black-ice&hide_border=true" width="800" style="margin-bottom:300px;">
+  </a>
+  <br>
+  <a href="https://github.com/chiragvaswani/github-readme-stats" style="margin-top:100px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragvaswani&theme=dark&count_private=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc" />
   </a>
- <a href="https://github.com/tejaspradhan/github-readme-stats">
+ <a href="https://github.com/chiragvaswani/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragvaswani&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
   </a>
 </div>
